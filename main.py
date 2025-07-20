@@ -105,3 +105,4 @@ st.write(f"Pulp solution (max objective): {value(prob.objective):.2f}")
 st.markdown("""
 ---
 👨‍💻 **Dibuat oleh: [Falen Amos L]**  
+""")
