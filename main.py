@@ -104,6 +104,4 @@ st.write(f"Pulp solution (max objective): {value(prob.objective):.2f}")
 # ✨ Footer
 st.markdown("""
 ---
-👨‍💻 **Dibuat oleh: [Nama Kamu]**  
-Untuk latihan pemrograman sistem kontrol rumah pintar dan integrasi library di `requirements.txt`.
-""")
+👨‍💻 **Dibuat oleh: [Falen Amos L]**  
